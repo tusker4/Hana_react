@@ -29,6 +29,9 @@ function App() {
   return (
     <div className="App">
       <Header></Header>
+      <Header></Header>
+      <Header></Header>
+      <Header></Header>
       <Nav></Nav>
       <Article></Article>
     </div>
